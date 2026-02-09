@@ -65,6 +65,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanket200511/sanket200511/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sanket200511/sanket200511/output/github-snake.svg" />
 </picture>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sanket200511/sanket200511/output/github-contribution-grid-snake.svg)
 
 
 ---
