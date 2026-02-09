@@ -8,16 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate contribution snake
+      - name: Generate snake (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: sanket200511
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
