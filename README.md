@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Development, DSA & OOP**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/sanket200511)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/sanket200511?tab=repositories)
 
 - 📫 How to reach me: **sanketkurve.2005@gmail.com**
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 - 🔹 **Web Applications** – Full-stack apps using React + Node.js  
 - 🔹 **Open Source Contributions** – Learning by building in public  
 
-➡️ Explore them here: [GitHub Repositories](https://github.com/sanket200511)
+➡️ Explore them here: [GitHub Repositories](https://github.com/sanket200511?tab=repositories)
 
 ---
 
