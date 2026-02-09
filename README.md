@@ -69,12 +69,31 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Developer Snapshot
+
+- 🧑‍💻 **Primary Focus:** Full Stack Development & Open Source  
+- 🐍 **Strong With:** Python, Django, JavaScript  
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs  
+- 🎨 **Frontend:** React, HTML5, CSS3  
+- 🗄️ **Databases:** MySQL, SQL  
+- 🧩 **Core Skills:** DSA, OOP, Git, Problem Solving  
+- 🌱 **Currently Exploring:** System Design & Scalable Applications
+
+---
+
+## 🌟 Featured Work
+
+- 🔹 **Python Automation Projects** – Scripts that save time & reduce manual work  
+- 🔹 **Web Applications** – Full-stack apps using React + Node.js  
+- 🔹 **Open Source Contributions** – Learning by building in public  
+
+➡️ Explore them here: [GitHub Repositories](https://github.com/sanket200511)
+
+---
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sanket200511&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
+    src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Learner;Open+Source+Contributor;Always+Building+🚀&center=true&width=500&height=45"
   />
 </p>
 
