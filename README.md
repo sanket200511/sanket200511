@@ -69,20 +69,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sanket200511&show_icons=true&theme=github_dark&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=sanket200511&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
     alt="GitHub Stats"
-    height="180"
-    referrerpolicy="no-referrer"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket200511&layout=compact&theme=github_dark&cache_seconds=86400"
-    alt="Top Languages"
-    height="180"
-    referrerpolicy="no-referrer"
   />
 </p>
 
