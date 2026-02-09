@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Development, DSA & OOP**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/SanketKurve)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/sanket200511)
 
 - 📫 How to reach me: **sanketkurve.2005@gmail.com**
 
-- 💬 Ask me about **Python, Django, NodeJs, ExpressJs, React, APIs111, Git, and Open Source**
+- 💬 Ask me about **Python, Django, NodeJs, React, APIs, Git, and Open Source**
 
 - ⚡ Fun fact: **I love building things that help people and automate daily life!**
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 
 ### 🛠️ Languages
